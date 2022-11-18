@@ -11,4 +11,5 @@ For example: 12:01 - 12:16 has no playable games since the game starts at 12:00
 Time is in the 24-hour format
 
 If time A = time B then we treat this as being within the same minute, meaning no playable games
+
 If time A > time B then game play has rolled over into the next day
